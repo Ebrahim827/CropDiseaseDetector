@@ -31,6 +31,7 @@ disease — Agriculture contributes 24% of Pakistan's GDP.
 Python · PyTorch · Torchvision · Gradio · Google Colab
 
 ## Try It Yourself
+First click run all codes at top
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OJcHpH3NBN_mXuHaXGvICJRkZV1LzIjp?usp=sharing)
 
 ## Limitations
