@@ -25,7 +25,7 @@ disease — Agriculture contributes 24% of Pakistan's GDP.
 1. Farmer uploads a leaf image
 2. ResNet18 CNN classifies the disease
 3. Returns disease name + confidence score
-4. Rejects unknown inputs below 60% confidence
+4. Rejects unknown inputs below 70% confidence
 
 ## Tech Stack
 Python · PyTorch · Torchvision · Gradio · Google Colab
